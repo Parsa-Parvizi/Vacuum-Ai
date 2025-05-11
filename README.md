@@ -1,7 +1,7 @@
 # Vacuum Cleaner AI Simulation
 
 An intelligent vacuum cleaner agent that uses A* pathfinding and TSP optimization to find the shortest path for cleaning a grid environment. The agent efficiently navigates through dirty cells while considering movement constraints and optimizing the cleaning sequence.
-![Vacuum AI Demo](https://github.com/Parsa-Parvizi/vacuum-ai/issues/1#issuecomment-123456789)
+![Vacum-AI](https://github.com/user-attachments/assets/822c4ef9-7b83-4fc1-8941-856992b21cd0)
 
 ## Features
 
